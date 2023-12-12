@@ -1,0 +1,39 @@
+button{
+    color: #fff;
+    background-color: rgb(72, 131, 220);
+    border-radius: 20px;
+    border: none;
+    padding: 5px 20px;
+    height: 30px;
+    margin-top: 15px ;
+}
+img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
+button , p{
+    display: inline;
+    
+}
+button{
+    margin-left: 50px;
+}
+div{
+    display: flex;
+    justify-content: baseline;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+P{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 20px;
+}

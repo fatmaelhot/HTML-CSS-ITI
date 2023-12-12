@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+    height: 50px;
+   
+  }
+  
+  .container > div {
+    background-color: #f37ee9;
+    width: 100px;
+    margin: 10px;
+    font-size: 30px;
+  }

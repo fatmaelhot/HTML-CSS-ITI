@@ -1,0 +1,21 @@
+input{
+   width: 100px;
+    padding: 10px 15px;
+    border-radius: 10px;
+     border: 1px solid grey;
+}
+.email{
+    width: 165px;
+    display: block;
+    padding: 10px 50px;
+    margin-top: 10px;
+}
+button{
+    color: #fff;
+    background-color: rgb(15, 69, 150);
+    border-radius: 10px;
+    border: none;
+    padding: 15px 30px;
+    margin-top: 10px;
+    width: 265px;
+}

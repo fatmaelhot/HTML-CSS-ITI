@@ -1,0 +1,12 @@
+.b{
+    display: flex;
+    justify-content: start;
+    width: 560px;
+}
+.b>img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}

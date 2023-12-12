@@ -1,0 +1,16 @@
+div{
+    background-color: rgb(60, 57, 57);
+    width: 300px;
+}
+
+.p1{
+    color: #fff;
+    margin-left: 10px;
+  padding-top: 5px;
+ 
+}
+.p2{
+    padding-bottom: 5px;
+    color: #c7bfbf;
+    margin-left: 10px;
+}

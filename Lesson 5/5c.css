@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: green;
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+p{
+    opacity: .5;
+}

@@ -1,0 +1,16 @@
+button{
+    background-color: black;
+     border-radius: 0%;
+     color: #fff;
+     padding: 10px 20px;
+      border: 0px;
+      transition: 1s;
+      cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+button:hover{
+    opacity: 0.6;
+}

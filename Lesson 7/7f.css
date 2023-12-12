@@ -1,0 +1,14 @@
+input{
+    display: block;
+    width: 200px;
+}
+button{
+    color: #fff;
+    background-color: rgb(72, 131, 220);
+    border-radius: 20px;
+    border: none;
+    padding: 10px 30px;
+}
+p ,label{
+    color: rgb(102, 101, 101);
+}

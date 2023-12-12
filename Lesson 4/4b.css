@@ -1,0 +1,16 @@
+button{
+    background-color:rgb(255, 216,20); 
+    border-radius: 15px; 
+    padding: 5px 30px;
+   
+    border: 0px;
+    transition: 1s;
+    cursor: pointer;
+    }
+    a{
+        text-decoration: none;
+        color: #000;
+    }
+    button:hover{
+        background-color: rgb(230, 194, 17);
+    }

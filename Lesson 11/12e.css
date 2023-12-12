@@ -1,0 +1,22 @@
+.b,.c,.d{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.s{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(97, 97, 192);
+    color: #fff;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 4px;
+}
+.a{
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}

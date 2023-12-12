@@ -1,0 +1,48 @@
+a{
+    color: rgb(0, 113, 133);
+    transition: 0.5s;
+}
+.one{
+    font-weight: bold;
+    color:black;
+}
+.two{
+    color: rgb(0, 118, 0);
+    font-weight: 500;
+}
+.b1{
+    background-color: rgb(255, 216, 20);
+    
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    border: none;
+    margin-right: 4px;
+    transition: 0.5;
+    cursor: pointer;
+}
+.b2{
+    background-color: rgb(255, 164, 28);
+   
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    border: none;
+    transition: 0.5;
+    cursor: pointer;
+}
+a:hover{
+    color: rgba(207, 138, 54, 0.82);
+}
+.b1:hover{
+    background-color: rgb(225, 219, 39);
+}
+.b1:active{
+   opacity: 0.6;
+}
+.b2:hover{
+    background-color: rgb(225, 113, 39);
+}
+.b2:active{
+   opacity: 0.6;
+}

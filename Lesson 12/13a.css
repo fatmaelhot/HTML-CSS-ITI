@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    
+  }
+  
+  .container > div {
+   
+   
+    padding: 10px;
+    font-size: 30px;
+  }
+  .a{
+width: 100px;
+background-color: palevioletred;
+display: flex;
+justify-content: center;
+align-items: center;
+  }
+  .b{
+    width: 200px;
+    background-color: aqua;
+  }
+  .c{
+    background-color: black;
+    color: #fff;
+  }
